@@ -2,6 +2,6 @@
 .vscode
 
 # Python stuff
-*.py
+__pycache__
 *.pyc
 *.pyz
